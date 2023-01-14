@@ -1,0 +1,9 @@
+/Users/xuzhongwei/Desktop/Lottery/Lottery/lottery-application/src/main/java/cn/itedus/lottery/application/mq/producer/KafkaProducer.java
+/Users/xuzhongwei/Desktop/Lottery/Lottery/lottery-application/src/main/java/cn/itedus/lottery/application/worker/LotteryXxlJobConfig.java
+/Users/xuzhongwei/Desktop/Lottery/Lottery/lottery-application/src/main/java/cn/itedus/lottery/application/process/IActivityProcess.java
+/Users/xuzhongwei/Desktop/Lottery/Lottery/lottery-application/src/main/java/cn/itedus/lottery/application/process/res/DrawProcessResult.java
+/Users/xuzhongwei/Desktop/Lottery/Lottery/lottery-application/src/main/java/cn/itedus/lottery/application/process/res/RuleQuantificationCrowdResult.java
+/Users/xuzhongwei/Desktop/Lottery/Lottery/lottery-application/src/main/java/cn/itedus/lottery/application/process/req/DrawProcessReq.java
+/Users/xuzhongwei/Desktop/Lottery/Lottery/lottery-application/src/main/java/cn/itedus/lottery/application/process/impl/ActivityProcessImpl.java
+/Users/xuzhongwei/Desktop/Lottery/Lottery/lottery-application/src/main/java/cn/itedus/lottery/application/worker/LotteryXxlJob.java
+/Users/xuzhongwei/Desktop/Lottery/Lottery/lottery-application/src/main/java/cn/itedus/lottery/application/mq/consumer/LotteryInvoiceListener.java
